@@ -34,11 +34,6 @@ const Home: NextPage = () => {
               className={styles.heroAsset}
             />
           </div>
-          <div className={styles.heroBody}>
-            <h1 className={styles.heroTitle}>
-              DaisyMarkt
-            </h1>
-          </div>
           <Link className={styles.heroCta} href="/buy">
             Get Started
           </Link>
